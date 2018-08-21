@@ -15,6 +15,7 @@ a=2
 -[ ] Still not completed
 
 -[x] Completed
+Title
 ----------------------------
 * one
 * two

@@ -6,3 +6,10 @@ Some **test** markdown
 1. Line 1
 1. Line 2
 1. Line 3
+
+```
+if a; then echo OK;
+fi
+```
+-[ ] Still not completed
+-[x] Completed

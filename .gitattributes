@@ -1,1 +1,1 @@
-file2.f filter=git-crypt diff=git-crypt
+encrypted_file2.f filter=git-crypt diff=git-crypt
